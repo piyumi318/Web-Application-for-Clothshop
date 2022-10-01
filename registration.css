@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+  
+
+
+form{
+	width:450px;
+	height:680px;
+	border:outset;
+	margin-left:380px;
+	font-size: 20px;
+}
+form input{
+	
+	margin:15px;
+}
+
+
+#reg{
+	width:250px;
+	height: 30px;
+	margin-left: 120px;
+	background: #726B6B;}
+	#reset{width:120px;
+	height: 30px;
+	background:#726B6B;}
+		
